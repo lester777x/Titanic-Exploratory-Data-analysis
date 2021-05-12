@@ -3,6 +3,7 @@
 Requirments:
 Python3
 Numpy
+Seaborn
 Pandas
 Matplotlib
 
